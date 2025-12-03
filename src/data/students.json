@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Gustavo",
+    "grades": { "math": 8, "english": 7, "science": 9 },
+    "avg": 8
+  },
+  {
+    "id": 2,
+    "name": "Ana",
+    "grades": { "math": 6, "english": 9 },
+    "avg": 7.5
+  }
+]
